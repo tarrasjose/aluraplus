@@ -156,6 +156,6 @@ body {
 .container__botao:hover {
     font-size: 1.05em;
     transition-duration: 0.5s;
-   
+    text-decoration: underline;
 }
 
